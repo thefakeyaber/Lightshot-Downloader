@@ -13,4 +13,6 @@ chrome.storage.sync.get(['imageUrl'], function (result) {
       imageUrlLink.href = imageUrl;
     }
   });
-  
+
+
+
